@@ -4,10 +4,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class FlightController {
+public class  itc {
 
-    @GetMapping("/flights")
+    @GetMapping("/itc")
     public String getData() {
-        return "Biplab learn devops from scratch 29-05-2025";
+        return "creating a new itc.java";
     }
 }
