@@ -8,6 +8,6 @@ public class  bear {
 
     @GetMapping("/bear")
     public String getData() {
-        return "tubork price is 180 8% aclohol";
+        return "tubork price is 180 8% aclohol it is very good";
     }
 }
